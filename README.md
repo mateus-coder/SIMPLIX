@@ -3,11 +3,10 @@
 ## State Machine ->
 
 
-![circuit_complete](https://user-images.githubusercontent.com/57800865/84536907-2eaf5a00-acc5-11ea-8cc0-dcfaae415965.png)
 
 ## Integrated circuit -> 
 
-![image](https://user-images.githubusercontent.com/57800865/84429884-43291f00-abff-11ea-8575-8539ca638c8c.png)
+![circuit_complete](https://user-images.githubusercontent.com/57800865/84536907-2eaf5a00-acc5-11ea-8cc0-dcfaae415965.png)
 
 
 ## State Machine -> 
