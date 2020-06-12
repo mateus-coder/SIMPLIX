@@ -2,7 +2,7 @@
 
 ## State Machine ->
 
-
+![Untitled Diagram-Page-1](https://user-images.githubusercontent.com/57800865/84537297-d7f65000-acc5-11ea-8504-e1c5751ae142.png)
 
 ## Integrated circuit -> 
 
