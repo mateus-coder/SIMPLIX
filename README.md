@@ -16,15 +16,15 @@
 
 ## ULA ->
 
-![image](https://user-images.githubusercontent.com/57800865/84430392-01e53f00-ac00-11ea-8075-395375c6f745.png)
+![ula](https://user-images.githubusercontent.com/57800865/84537451-2572bd00-acc6-11ea-95ae-c169ae0fb891.png)
 
 ## Register -> 
 
-![image](https://user-images.githubusercontent.com/57800865/84430487-24775800-ac00-11ea-9f6f-9da1b8cc503a.png)
+![register](https://user-images.githubusercontent.com/57800865/84537531-5521c500-acc6-11ea-96ba-8de4c96ad450.png)
 
 ## Instruction Memory ->
 
-![image](https://user-images.githubusercontent.com/57800865/84430606-4cff5200-ac00-11ea-8e50-7e11cdde0a28.png)
+![instruction memory](https://user-images.githubusercontent.com/57800865/84537529-54892e80-acc6-11ea-9a06-c542f479a1f3.png)
 
 ## Move Decoder ->
 
